@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M4_Sprint</string>
+    <string name="txv_descripcion">Mi nombre es César, soy un técnico en informática que después de varios años reparando computadores e impresoras, quiere conseguir trabajo como desarrollador.</string>
+    <string name="btn_mas">Ver mas</string>
+    <string name="img_foto">Foto mía</string>
+    <string name="txv_detalles">Como me puedes contactar:</string>
+    <string name="btn_linkedin">Linkedin</string>
+    <string name="btn_whatsapp">WhatsApp</string>
+    <string name="txv_enviacorreo">Envíame un correo</string>
+    <string name="btn_enviacorreo">Enviar mensaje</string>
+    <string name="etx_mensaje">Mensaje por correo</string>
+    <string name="btn_volver">Volver</string>
+</resources>
