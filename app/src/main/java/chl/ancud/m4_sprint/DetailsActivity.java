@@ -3,12 +3,10 @@ package chl.ancud.m4_sprint;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.content.pm.PackageInfo;
-import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
+
 
 import chl.ancud.m4_sprint.databinding.ActivityDetailsBinding;
 
